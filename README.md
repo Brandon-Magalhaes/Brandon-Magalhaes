@@ -23,8 +23,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Brandon-Magalhaes&show_icons=true&theme=algolia" alt="Brandon-Magalhaes's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon-Magalhaes&layout=compact&theme=algolia" alt="Brandon-Magalhaes's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Brandon-Magalhaes&show_icons=true&theme=vision-friendly-dark" alt="Brandon-Magalhaes's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon-Magalhaes&layout=compact&theme=vision-friendly-dark" alt="Brandon-Magalhaes's most languages"/>
 </p>
 
 <br><br>
