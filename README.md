@@ -32,7 +32,7 @@
 ## 🙍‍♂️ &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://twitter.com/BrandonMagalhes" target="_blank">
+<a href="https://twitter.com/BrandonMSouza" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-BrandonMagalhaes-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="#" target="_blank">
