@@ -1,12 +1,12 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">, Sou Brandon Magalhães</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Brandon-Magalhaes&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Desenvolvedor Front-End Júnior
+- 🔥 Junior Front End Developer
 
-- 👨‍💻 Tecnólogo em Análise e Desenvolvimento de Sistemas
+- 👨‍💻 Technologist in Systems Analysis and Development
 <br>
 
-## 🛠 &nbsp;Tecnologias
+## 🛠 &nbsp;Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
