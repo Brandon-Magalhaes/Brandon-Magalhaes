@@ -1,4 +1,4 @@
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">, Sou Brandon Magalhães</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">, I'm Brandon Magalhães</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Brandon-Magalhaes&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Junior Front End Developer
