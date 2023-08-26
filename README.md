@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Brandon Magalhães</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Brandon-Magalhaes&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Junior Front End Developer
+- 🔥 Web Development
 
 - 👨‍💻 Technologist in Systems Analysis and Development
 <br>
