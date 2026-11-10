@@ -53,11 +53,17 @@ Desenvolvo produtos web e mobile de ponta a ponta: interface, API, banco de dado
 
 ## Projetos públicos
 
+- **[Albion Tracker](https://github.com/Brandon-Magalhaes/albion-tracker)** — aplicação em Next.js e TypeScript que consulta dados públicos de jogadores e eventos PvP, com rotas de API próprias e deploy na Vercel. [Demo](https://albion-tracker.vercel.app)
+- **[auth-api-nestjs](https://github.com/Brandon-Magalhaes/auth-api-nestjs)** — API de autenticação em **NestJS + PostgreSQL** com JWT (access e refresh), bcrypt, validação com class-validator e documentação Swagger.
+- **[auth-web-react](https://github.com/Brandon-Magalhaes/auth-web-react)** — front-end em React, Vite e TypeScript com login, cadastro e dashboard protegido, consumindo a API acima.
+- **[book-store-mern](https://github.com/Brandon-Magalhaes/book-store-mern)** — CRUD de livros em Express + MongoDB e React + Vite + Tailwind, com as rotas da API e projeto de estudo documentados.
 - **[Crypto Landing](https://github.com/Brandon-Magalhaes/Crypto-Landing)** — landing page em Next.js, TypeScript e Tailwind CSS, com dados de mercado e layout responsivo.
 - **[Market-Place](https://github.com/Brandon-Magalhaes/Market-Place)** — e-commerce de estudo com Next.js 13 (App Router), TypeScript, Tailwind e integração Stripe no cliente.
 - **[Product Catalog](https://github.com/Brandon-Magalhaes/Product-Catalog)** — catálogo com rotas dinâmicas, busca por nome e consumo de API.
 - **[Pokémon Find](https://github.com/Brandon-Magalhaes/pokemon-find)** — React e TypeScript consumindo a PokeAPI, com persistência local.
 - **[Portfólio](https://github.com/Brandon-Magalhaes/Brandon-Portfolio)** — site pessoal em React com tema claro/escuro.
+
+---
 
 O código dos projetos profissionais é privado, por ser propriedade das empresas. Os repositórios acima são estudos e peças de portfólio.
 
