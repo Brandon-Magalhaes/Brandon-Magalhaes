@@ -1,21 +1,21 @@
-# Brandon MagalhÃ£es
+# Brandon Magalhães
 
-**Desenvolvedor Full Stack Pleno** â€” React/Next.js Â· TypeScript Â· Node.js/NestJS Â· PostgreSQL
+**Desenvolvedor Full Stack Pleno** — React/Next.js · TypeScript · Node.js/NestJS · PostgreSQL
 
-Construo e evoluo produtos web e mobile de ponta a ponta: interface, API, banco e implantaÃ§Ã£o. Minha experiÃªncia mais recente foi em plataformas financeiras â€” Pix, boletos, cartÃµes â€” e em sistemas que nÃ£o podem parar.
+Construo e evoluo produtos web e mobile de ponta a ponta: interface, API, banco e implantação. Minha experiência mais recente foi em plataformas financeiras — Pix, boletos, cartões — e em sistemas que não podem parar.
 
-[LinkedIn](https://www.linkedin.com/in/brandon-magalh%C3%A3es-938083240/) Â· [E-mail](mailto:brandon_bdz@hotmail.com) Â· Rio de Janeiro, Brasil
+[LinkedIn](https://www.linkedin.com/in/brandon-magalh%C3%A3es-938083240/) · [E-mail](mailto:brandon_bdz@hotmail.com) · Rio de Janeiro, Brasil
 
 ---
 
-## No que jÃ¡ trabalhei
+## No que já trabalhei
 
-- **Plataforma financeira white label** â€” construÃ§Ã£o desde o inÃ­cio, com Next.js no front, NestJS no back e PostgreSQL. Fluxos de Pix (cobranÃ§a, depÃ³sito e saque), integraÃ§Ã£o com serviÃ§os de cripto e um projeto separado de cartÃ£o virtual com Angular, NestJS e AWS.
-- **ManutenÃ§Ã£o granular por white label e por pÃ¡gina** â€” controle que permitia colocar sÃ³ a Ã¡rea afetada em manutenÃ§Ã£o, sem derrubar operaÃ§Ãµes que precisavam continuar.
-- **MigraÃ§Ã£o gradual para NestJS** â€” reorganizaÃ§Ã£o em mÃ³dulos, controllers e services, com o sistema legado no ar durante a transiÃ§Ã£o.
-- **Testes automatizados** â€” Cypress para fluxos crÃ­ticos em React (cadastro, login, pagamentos) e Jest, introduzidos onde nÃ£o havia cobertura.
-- **IntegraÃ§Ã£o com gateway de pagamento** â€” investigaÃ§Ã£o junto ao fornecedor atÃ© identificar que a falha estava no back-end deles.
-- **Mobile** â€” Flutter, com publicaÃ§Ã£o conduzida por mim na Apple App Store e no Google Play.
+- **Plataforma financeira white label** — construção desde o início, com Next.js no front, NestJS no back e PostgreSQL. Fluxos de Pix (cobrança, depósito e saque), integração com serviços de cripto e um projeto separado de cartão virtual com Angular, NestJS e AWS.
+- **Manutenção granular por white label e por página** — controle que permitia colocar só a área afetada em manutenção, sem derrubar operações que precisavam continuar.
+- **Migração gradual para NestJS** — reorganização em módulos, controllers e services, com o sistema legado no ar durante a transição.
+- **Testes automatizados** — Cypress para fluxos críticos em React (cadastro, login, pagamentos) e Jest, introduzidos onde não havia cobertura.
+- **Integração com gateway de pagamento** — investigação junto ao fornecedor até identificar que a falha estava no back-end deles.
+- **Mobile** — Flutter, com publicação conduzida por mim na Apple App Store e no Google Play.
 
 ## Stack
 
@@ -35,15 +35,15 @@ Construo e evoluo produtos web e mobile de ponta a ponta: interface, API, banco 
 ![Flutter](https://img.shields.io/badge/Flutter-05122A?style=flat&logo=flutter)
 ![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)
 
-## Projetos pÃºblicos
+## Projetos públicos
 
-- **[Crypto Landing](https://github.com/Brandon-Magalhaes/Crypto-Landing)** â€” landing page em Next.js, TypeScript e Tailwind, com dados dinÃ¢micos de criptomoedas.
-- **[PokÃ©mon Find](https://github.com/Brandon-Magalhaes/pokemon-find)** â€” React e TypeScript consumindo a PokeAPI, com persistÃªncia local.
-- **[Product Catalog](https://github.com/Brandon-Magalhaes/Product-Catalog)** â€” Next.js com rotas dinÃ¢micas e consumo de API.
-- **[MERN Book Store](https://github.com/Brandon-Magalhaes/MERN-Book-Store)** â€” CRUD completo com MongoDB, Express, React e Node.js.
+- **[Crypto Landing](https://github.com/Brandon-Magalhaes/Crypto-Landing)** — landing page em Next.js, TypeScript e Tailwind, com dados dinâmicos de criptomoedas.
+- **[Pokémon Find](https://github.com/Brandon-Magalhaes/pokemon-find)** — React e TypeScript consumindo a PokeAPI, com persistência local.
+- **[Product Catalog](https://github.com/Brandon-Magalhaes/Product-Catalog)** — Next.js com rotas dinâmicas e consumo de API.
+- **[MERN Book Store](https://github.com/Brandon-Magalhaes/MERN-Book-Store)** — CRUD completo com MongoDB, Express, React e Node.js.
 
-O cÃ³digo dos projetos profissionais Ã© privado, por ser propriedade das empresas. Os repositÃ³rios acima sÃ£o estudos e peÃ§as de portfÃ³lio.
+O código dos projetos profissionais é privado, por ser propriedade das empresas. Os repositórios acima são estudos e peças de portfólio.
 
 ## Aberto a
 
-Vagas de **Full Stack Pleno** (React/Next + Node/NestJS + banco relacional), remotas ou hÃ­bridas. TambÃ©m avaliaÃ§Ã£o para front-end ou back-end no mesmo nÃ­vel.
+Vagas de **Full Stack Pleno** (React/Next + Node/NestJS + banco relacional), remotas ou híbridas. Também avaliação para front-end ou back-end no mesmo nível.
